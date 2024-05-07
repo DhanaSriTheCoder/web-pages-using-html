@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>my web page</title>
+	</head>
+	<body>
+		<h3>Forms in html</h3>
+		<h4>in forms we have GET and POST methods like if we are trying to get or fetch the information we will use GET method and we are trying to post on the server or we are entering details to the webside or an application like setting an account, etc.. so here we use POST method in forms</h4>
+		<form method="GET">
+			<legend>Enter Your Details</legend>
+		<pre>
+		Enter your name:<input type="text" placeholder="username" name="username"/>
+
+		Enter your age:<input type="number" placeholder="yourcurrentage" name="age"/>
+
+		Enter your email:<input type="email" placeholder="emailid" name="email"/>
+
+		Enter your password:<input type="password" placeholder="password" name="password"/>
+		
+		Enter your Discription:<textarea rows="3" cols="25"></textarea>
+	    <label for="gender">Gender</label>
+	    <input type="radio" id="gender" name="gender" value="male"/>Male
+	    <input type="radio" id="gender" name="gender" value="female"/>Female
+	    <input type="radio" id="gender" name="gender" value="prefer not to say"/>Prefer not to say
+	    <input type="submit" value="submit"/>
+        </pre>
+        <p>which languages you know</p>
+        <select
+        name="dropdown">
+        	<option value="C language">C language></option>
+        	<option value="C++ language">C++ language></option>
+        	<option value="python language">python language></option>
+        	<option value="html language">html language></option>
+        	<option value="Css language">Css language></option>
+        </select>
+        <p>which language you want to learn or you are intrested in?</p>
+        <input type="checkbox" name="basic programming" value="on"/>basic programming<br/>
+        <input type="checkbox" name="c" value="on"/>c<br/>
+        <input type="checkbox" name="c++" value="on"/>c++<br/>
+        <input type="checkbox" name="python" value="on"/>python<br/>
+        <p>Upload file</p>
+        <input type="file" name="fileupload" accept="pdf/*"/>
+        <input type="button" name="ok" value="ok"/>
+		</form>
+	</body>
+</html>
