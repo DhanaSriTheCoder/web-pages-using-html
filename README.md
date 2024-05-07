@@ -1,0 +1,11 @@
+I just created webpages by using HTML I've mentioned the topics below that I've covered;
+1.arrow.js: This file seems to be a JavaScript file named "arrow.js". Without seeing the contents, it's likely related to handling arrow functions in JavaScript.
+2.audio&vedio.html: This HTML file appears to be about embedding and controlling audio and video elements within a webpage. It probably covers topics such as using the <audio> and <video> tags in HTML and JavaScript to play multimedia content.
+3.background.html: This HTML file likely deals with setting background images or colors for webpages using CSS. It may include information on CSS properties such as background-image, background-color, and background-repeat.
+4.images.html: This HTML file probably covers topics related to working with images in HTML, including how to insert images using the <img> tag, image formats, resizing images, and other image-related HTML attributes.
+5.links.html: This HTML file likely discusses creating hyperlinks in HTML, including anchor tags (<a>), linking to external websites, linking to other pages within the same website, and using relative and absolute paths.
+6.lists.html: This HTML file likely covers HTML lists, including unordered lists (<ul>), ordered lists (<ol>), and definition lists (<dl>). It may also include information on styling lists using CSS.
+7.marquee.html: This HTML file probably demonstrates or discusses the <marquee> element, which is used for creating scrolling text or images on a webpage. It may include examples and usage of the <marquee> tag.
+8.mypage.html: This HTML file named "mypage.html" could be a personal webpage or a template for a webpage. It may contain personalized content, such as a bio, contact information, or links to social media profiles.
+9.seecondlinks.html: This HTML file seems to be related to creating additional links within a webpage. It may include examples and explanations of how to create and style multiple links using HTML and CSS.
+10.tables.html: This HTML file likely covers the creation and styling of HTML tables, including the <table>, <tr>, <td>, and <th> elements. It may also include information on table structure, formatting, and accessibility.
